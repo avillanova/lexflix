@@ -95,6 +95,4 @@ export default () => {
 }
 
 //TODO: Testes unitarios
-//TODO: Organizar pastas dos componentes
 //TODO: README
-//TODO: Deploy
